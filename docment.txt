@@ -1,0 +1,7 @@
+In Python, recursion refers to a programming technique where a function calls itself to solve a problem. It is a powerful and elegant way to solve certain types of problems, especially those that exhibit a recursive structure. A recursive function breaks a problem down into smaller, more manageable subproblems and solves them by calling itself with modified input.
+
+To implement recursion in Python, a few key components are essential:
+
+Base Case: The base case defines the simplest version of the problem that can be directly solved without further recursion. It acts as the stopping condition for the recursive calls.
+
+Recursive Step: The recursive step defines how the function calls itself with a smaller or modified version of the original problem to make progress toward the base case.
